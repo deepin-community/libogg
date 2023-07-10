@@ -1,3 +1,9 @@
+libogg (1.3.4-0.1deepin) unstable; urgency=low
+
+  * Change debian/compat to 13
+
+ -- Chang Yang <yangchang@uniontech.com>  Mon, 10 Jul 2023 13:38:24 +0800
+
 libogg (1.3.4-0.1) unstable; urgency=low
 
   [ Adrian Bunk ]
