@@ -1,3 +1,8 @@
 # see debian/copyright
-libogg source: license-problem-non-free-RFC doc/rfc3533.txt
-libogg source: license-problem-non-free-RFC-BCP78 doc/rfc5334.txt
+license-problem-non-free-RFC [doc/rfc3533.txt]
+license-problem-non-free-RFC-BCP78 [doc/rfc5334.txt]
+# dak has an older version of lintian, so cater for that as well
+license-problem-non-free-RFC doc/rfc3533.txt
+license-problem-non-free-RFC-BCP78 doc/rfc5334.txt
+# looks like a perfectly valid hand-written HTML-file (with very long lines)
+source-is-missing [doc/skeleton.html]
