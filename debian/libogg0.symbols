@@ -1,4 +1,5 @@
 libogg.so.0 libogg0 #MINVER#
+* Build-Depends-Package: libogg-dev
  ogg_packet_clear@Base 1.0rc3
  ogg_page_bos@Base 1.0rc3
  ogg_page_checksum_set@Base 1.0rc3
